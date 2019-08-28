@@ -7,7 +7,8 @@ MessageFormat
 ```
 # methods
 ```
-getIntegerInstance
-getPercentInstance
-getCurrencyInstance
+NumberFormat#getIntegerInstance
+NumberFormat#getPercentInstance
+NumberFormat#getCurrencyInstance
+NumberFormat#getCurrencyInstance(Locale locale)
 ```
