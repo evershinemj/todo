@@ -3,3 +3,10 @@
 
 # find
 find out more usages of `find`
+
+# touch
+find out more usages of `touch`
+
+# stat
+find out more usages of `stat`
+
