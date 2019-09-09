@@ -1,1 +1,2 @@
-install idea extensions
+- install idea extensions
+- learn about idea's `tip of the day`
