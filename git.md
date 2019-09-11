@@ -1,0 +1,1 @@
+- add more git repositories to eclipse and idea to further explorer to what extent they support git
