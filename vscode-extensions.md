@@ -2,3 +2,5 @@
 ---
 > install vscode extension: sqltools
 ---
+> install vscode extensions for C/C++ and python
+---
